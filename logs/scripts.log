@@ -1,0 +1,4 @@
+[19-Mar-2013 10:25:55] PHP Warning:  include(freecontactformsettings.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /contactform_free/freecontactformprocess.php on line 25
+[19-Mar-2013 10:25:55] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'freecontactformsettings.php' for inclusion (include_path='.:/include:/usr/lib/php') in /contactform_free/freecontactformprocess.php on line 25
+[19-Mar-2013 10:26:11] PHP Warning:  include(freecontactformsettings.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /contactform_free/freecontactformprocess.php on line 25
+[19-Mar-2013 10:26:11] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'freecontactformsettings.php' for inclusion (include_path='.:/include:/usr/lib/php') in /contactform_free/freecontactformprocess.php on line 25
